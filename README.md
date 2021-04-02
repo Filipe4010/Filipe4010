@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Filipe4010
+- 👀 I’m interested in web aplications 
+- 🌱 I’m currently learning node.js, java(webservlet) and open shift.
+- Currently I'm working with php, javascript, jquery, sql and html.
