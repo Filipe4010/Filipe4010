@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Filipe 👋</h1>
 
 <p align="center">
-  Brazilian Fullstack Software Developer | .NET Enthusiast | AWS Learner
+  Brazilian Fullstack Software Developer | .NET | Node | Angular | React | Javascript 
 </p>
 
 ---
@@ -26,7 +26,7 @@ I enjoy solving complex problems, improving system performance, and collaboratin
 - Node.js, PHP (Laravel, CodeIgniter)
 
 ### 🔹 Databases
-- PostgreSQL, MySQL, SQL Server
+- PostgreSQL, MySQL, SQL Server, MongoDB
 
 ### 🔹 DevOps & Cloud
 - Git, GitHub, GitLab
