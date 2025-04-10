@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/042470c75cf323698a4221a5f3fc172780ee482da38c3b99b7c1073fb6c66725/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667" width="100" />
-</p>
-
 <h1 align="center">Hi there, I'm Filipe 👋</h1>
 
 <p align="center">
