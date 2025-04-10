@@ -67,7 +67,7 @@ I enjoy solving complex problems, improving system performance, and collaboratin
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/filipe4010)
+- 🔗 [LinkedIn](https://linkedin.com/in/filipe4010](https://www.linkedin.com/in/filipe-masini-6006b0173/)
 - 📧 Email: *filipe.masini@outlook.com*
 - 🌍 Location: Salvador, Bahia – Brazil
 
