@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Filipe 👋</h1>
 
 <p align="center">
-  Brazilian Fullstack Software Developer | .NET | Node | Angular | React | Javascript 
+  Brazilian Fullstack Software Developer | .NET Enthusiast | AWS Learner
 </p>
 
 ---
@@ -26,7 +26,7 @@ I enjoy solving complex problems, improving system performance, and collaboratin
 - Node.js, PHP (Laravel, CodeIgniter)
 
 ### 🔹 Databases
-- PostgreSQL, MySQL, SQL Server, MongoDB
+- PostgreSQL, MySQL, SQL Server, **MongoDB**
 
 ### 🔹 DevOps & Cloud
 - Git, GitHub, GitLab
@@ -47,9 +47,10 @@ I enjoy solving complex problems, improving system performance, and collaboratin
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
@@ -67,7 +68,7 @@ I enjoy solving complex problems, improving system performance, and collaboratin
 ## 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://linkedin.com/in/filipe4010)
-- 📧 Email: *filipe.masini@outlook.com*
+- 📧 Email: *your-email@example.com*
 - 🌍 Location: Salvador, Bahia – Brazil
 
 ---
